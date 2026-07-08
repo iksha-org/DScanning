@@ -1,4 +1,5 @@
-API_KEY = "AKIAIOSFODNN7EXAMPLE"
+API_KEY = "AKIAIOSFODNN7SEARCHK"
+           
 
 def search(q):
     return []
