@@ -1,1 +1,1 @@
-NPM_TOKEN = "npm_1234567890abcdefghijklmnopqrstuvwxyz"
+NPM_TOKEN = "npm_1234567890abcdefghijklmnopqrstuvwxyg"
